@@ -1,7 +1,25 @@
 # Veterinary-management-system
 ## ABSTRACTION ##
-
-
-With the fast development of computer technology, the software projects are grow complexity. Software experts have recently sought to develop a more systematic and formal approach in the design, development and implementation of their software. This new approach has become necessary because the traditional methods of system development often yielded software characterized by late diversity, costliness, unreliability, and non-maintainability and non-use ability.
-In this new age of computing everything has been computerized, so how can we become isolate and untouched from this environment. That’s why keeping this thing in mind and an opportunity or probably a creativity to do such a task different and unique from others, we thought a way to develop this software.
-This project has been developed in aim to aid and computerize Ticket booking. While keeping in mind the user will find an easy and friendlier user interface to perform his  task. The software has been made so user friendly that any person can use it easily without having any computer experience.
+A prerequisite to the development of an efficient animal health, food safety and
+traceability management system in the animal food production chain is the
+implementation of an integrated veterinary informational management system (VIMS)
+capable for the capture, storage, analysis and retrieval of data and providing the
+opportunity for the cumulative gathering of the knowledge and capability for its
+competent interpretation. Such a system will enable collecting appropriate data,
+including quality management and inspection controls, from all establishments and
+commodities in the farm to food production chain (farms, holdings, slaughterhouses,
+laboratories, traders etc.) in a structured, predefined format, and facilitate competent
+analyses and reporting of such data, as well as the improvement of the existing
+programs and strategies.
+The role of information system in animal disease diagnosis, surveillance and
+notification, control of national and international trade of commodities, food safety
+management, investigation of diseases, predictive microbiology and quantitative risk
+assessment is of great importance for the quality of veterinary service. Integral part of
+the VIMS is animal disease notification system designed according to and in
+compliance with international requirements, standards and recommendation and able
+to exchange relevant information with similar information systems. The aim of this
+contribution is to describe national animal disease notification system.
+A system for management of a veterinary clinic. To make easier the administration of
+clients, employees, consultation (animal care), services and products. Providing the
+following basic features: animals, owners and employees registration, services and
+products maintenance also management of the consults.
